@@ -1,0 +1,10 @@
+HI {FULLNAME},</br>
+</br>
+
+Please find Your password below.
+
+Password : {PWD}
+
+
+Thanks,</br>
+Morning Basket India LLP.</br>
